@@ -44,7 +44,7 @@ You can change its value to test the function with different buffer sizes.
 
 For example:
 
-``bash
+```bash
 cc -Wall -Wextra -Werror -D BUFFER_SIZE=1 \
 get_next_line.c get_next_line_utils.c main.c -o get_next_line
 ```
