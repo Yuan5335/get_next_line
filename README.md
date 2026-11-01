@@ -46,7 +46,7 @@ You can change its value to test the function with different buffer sizes.
 
 For example:
 
-```bash
+``bash
 cc -Wall -Wextra -Werror -D BUFFER_SIZE=1 \
 get_next_line.c get_next_line_utils.c main.c -o get_next_line
 ```
@@ -70,6 +70,7 @@ The following resources were useful for understanding the concepts involved in t
 AI was used as supplementary learning and documentation resource during this project.
 
 AI assistance was used for:
+
 - Clarifying concepts related to file descriptors, static variables, memory allocation, and the read() system call.
 - Structuring and writing this README file.
-Improving the clarity of technical explanations.
+- Improving the clarity of technical explanations.
