@@ -1,7 +1,6 @@
 *This project has been created as part of the 42 curriculum by <aybaassi>.*
 
-#get_next_line
-##Description
+#Description
 
 get_next_line is a project from the 42 School curriculum that involves developing a function capable of reading a file or input stream one line at a time.
 
@@ -49,7 +48,7 @@ For example:
 cc -Wall -Wextra -Werror -D BUFFER_SIZE=1 \
 get_next_line.c get_next_line_utils.c main.c -o get_next_line
 ```
-##Resources
+#Resources
 
 The following resources were useful for understanding the concepts involved in this project:
 
