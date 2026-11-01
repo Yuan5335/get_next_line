@@ -54,16 +54,16 @@ get_next_line.c get_next_line_utils.c main.c -o get_next_line
 
 The following resources were useful for understanding the concepts involved in this project:
 
-- Documentation
-read() — Linux manual page
-open() — Linux manual page
-close() — Linux manual page
-malloc() — Linux manual page
-Static variables in C
-- Learning resources
-The C Programming Language — Brian W. Kernighan and Dennis M. Ritchie
-GNU C Library Documentation
-- AI Usage
+**Documentation**
+- read() — Linux manual page
+- open() — Linux manual page
+- close() — Linux manual page
+- malloc() — Linux manual page
+- Static variables in C
+**Learning resources**
+- The C Programming Language — Brian W. Kernighan and Dennis M. Ritchie
+- GNU C Library Documentation
+**AI Usage**
 
 AI was used as supplementary learning and documentation resource during this project.
 
