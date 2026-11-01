@@ -70,7 +70,6 @@ The following resources were useful for understanding the concepts involved in t
 AI was used as supplementary learning and documentation resource during this project.
 
 AI assistance was used for:
-
-Clarifying concepts related to file descriptors, static variables, memory allocation, and the read() system call.
-Structuring and writing this README file.
+- Clarifying concepts related to file descriptors, static variables, memory allocation, and the read() system call.
+- Structuring and writing this README file.
 Improving the clarity of technical explanations.
