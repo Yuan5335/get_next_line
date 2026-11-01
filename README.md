@@ -60,9 +60,11 @@ The following resources were useful for understanding the concepts involved in t
 - close() — Linux manual page
 - malloc() — Linux manual page
 - Static variables in C
+
 **Learning resources**
 - The C Programming Language — Brian W. Kernighan and Dennis M. Ritchie
 - GNU C Library Documentation
+
 **AI Usage**
 
 AI was used as supplementary learning and documentation resource during this project.
