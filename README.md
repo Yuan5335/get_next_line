@@ -26,6 +26,7 @@ The function must work with different buffer sizes, handle end-of-file condition
 - Manipulate strings efficiently.
 - Handle different input conditions and potential errors.
 - Develop a reliable line-reading algorithm.
+
 #Instructions
 ##Compilation
 
