@@ -28,6 +28,7 @@ The function must work with different buffer sizes, handle end-of-file condition
 - Develop a reliable line-reading algorithm.
 
 #Instructions
+
 ##Compilation
 
 The project is written in C and compiled using cc or gcc.
